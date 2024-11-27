@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oliur Rahman Shawon</h1>
 <h3 align="center">A passionate frontend developer from sylhet,bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shawonahmed05" alt="shawonahmed05" /></a> </p>
-
 - 📫 How to reach me **oliurrahmanshawon7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
