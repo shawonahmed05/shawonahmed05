@@ -1,11 +1,11 @@
 ### Hi there 👋  
-  I’m [Al Farabi] – A passionate web developer.
+  I’m [Oliur Rahman Shawon] – A passionate web developer.
   - 👯 I’m looking to collaborate on **open-source projects**.
   - 💬 Ask me about **React, JavaScript, and MongoDB**.
-  - 📫 How to reach me: [farabisyl2017@gmail.com](mailto:farabisyl2017@gmail.com).
+  - 📫 How to reach me: [Oliurrahmanshawon7@gmail.com](mailto:oliurrahmanshawon7@gmail.com @gmail.com).
 
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coding]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-animation-download-in-lottie-json-gif-static-svg-file-formats--web-developer-programming-code-online-meeting-freelancer-website-development-animations-3645911.mp4))
 
 
 ### Languages and Tools:
@@ -24,14 +24,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 
-### My Github Stats:-
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-Farabi&show_icons=true&theme=radical)
 
-### Streak Stats:-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=A-Farabi&theme=radical)
-
-### Activity Graph:-
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=A-Farabi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
