@@ -1,9 +1,5 @@
 # 💫 About Me:
 Hi there I'm Oliur Rahman Shawon👋<br>Web Developer | Fontend Developer 
-![programming](https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif)
-
-
-
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
