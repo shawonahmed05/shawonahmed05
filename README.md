@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi there I'm Oliur Rahman Shawon👋<br>Web Developer | Fontend Developer <br>💻 Expertise: JavaScript, React js, React Router, REST API, Express js, ES6, MongoDB, React Bootstrap, Bootstrap5, CSS3, HTML5.<br>💻 Tools: Git, VS Code, Firebase,  Netlify, Chrome Dev tool.
-
+Hi there I'm Oliur Rahman Shawon👋<br>Web Developer | Fontend Developer 
 
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -16,13 +15,5 @@ Hi there I'm Oliur Rahman Shawon👋<br>Web Developer | Fontend Developer <br>�
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shawonahmed05&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shawonahmed05&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shawonahmed05&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
