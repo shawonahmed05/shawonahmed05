@@ -7,9 +7,6 @@ I'm a passionate front-end developer with skills in HTML, CSS, JavaScript, and R
 - React | Tailwind CSS  
 - Node.js | Express.js  
 
-## 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shawonahmed05&show_icons=true&theme=radical)
-
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -24,8 +21,5 @@ I'm a passionate front-end developer with skills in HTML, CSS, JavaScript, and R
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shawonahmed05&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shawonahmed05&layout=compact&theme=radical)  
 
 
