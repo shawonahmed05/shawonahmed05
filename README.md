@@ -1,13 +1,13 @@
-# 💫 About Me:
-# 👋 Hi, I'm [Oliur Rahman Shawon]  
+# 👋 Hi, I'm Oliur Rahman Shawon 
 I'm a passionate front-end developer with skills in HTML, CSS, JavaScript, and React.  
 ⚡ Fun Fact: I love coding and coffee ☕
 
 ![coding](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
 ## 🚀 Skills  
 - HTML5 | CSS3 | JavaScript  
-- React | Tailwind CSS  
-- Node.js | Express.js  
+- React | Tailwind CSS | Bootstrap | DaisyUI  
+- Node.js | Express.js 
+- MongoDB | Firebase | Git | npm  
 
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
