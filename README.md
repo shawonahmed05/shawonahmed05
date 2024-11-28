@@ -25,4 +25,7 @@ I'm a passionate front-end developer with skills in HTML, CSS, JavaScript, and R
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shawonahmed05&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shawonahmed05&layout=compact&theme=radical)  
+
 
