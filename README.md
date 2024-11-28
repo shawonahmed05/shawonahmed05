@@ -8,7 +8,7 @@ I'm a passionate front-end developer with skills in HTML, CSS, JavaScript, and R
 - Node.js | Express.js  
 
 ## 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shawonahmed05&show_icons=true&theme=radical)
 
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
