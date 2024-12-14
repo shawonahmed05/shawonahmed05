@@ -29,6 +29,7 @@ I'm a passionate front-end developer with skills in HTML, CSS, JavaScript, and R
 
 ## ☕ Connect with me!
 - [Facebook](https://www.facebook.com/oliurrahmanshawon05)
+- [LinkedIn](www.linkedin.com/in/oliur-rahman-shawon)
 
 
 
