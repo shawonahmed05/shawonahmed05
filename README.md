@@ -2,8 +2,6 @@
 I'm a passionate front-end developer with skills in HTML, CSS, JavaScript, and React.  
 ⚡ Fun Fact: I love coding and coffee ☕
 
-<img src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U" alt="Programming" width="400" height="auto">
-
 
 ## 🚀 Skills  
 - HTML5 | CSS3 | JavaScript  
@@ -25,11 +23,6 @@ I'm a passionate front-end developer with skills in HTML, CSS, JavaScript, and R
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-
-## ☕ Connect with me!
-- [Facebook](https://www.facebook.com/oliurrahmanshawon05)
-- [LinkedIn](https://www.linkedin.com/in/oliur-rahman-shawon)
 
 
 
